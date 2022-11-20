@@ -10,3 +10,4 @@ z="welcome to python"
 print("the type of ",z," is",type(z))
 my_list=["aijaz,100","java,10"]
 print("the type of ",my_list," is",type(my_list))
+
